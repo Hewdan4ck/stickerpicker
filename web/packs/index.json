@@ -2,7 +2,8 @@
   "packs": [
     "vvrart.json",
     "tbh2myheart.json",
-    "Enciikoshki.json"
+    "Enciikoshki.json",
+    "Meroks.json"
   ],
   "homeserver_url": "https://45.95.203.175.nip.io:8008"
 }
